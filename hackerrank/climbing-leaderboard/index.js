@@ -13,7 +13,6 @@ function climbingLeaderboard(ranked, player) {
     if (i === -1) {
       result.push(1);
     } else {
-      console.log(i);
       result.push(i + 2);
     }
   }
@@ -23,4 +22,4 @@ function climbingLeaderboard(ranked, player) {
 
 const player = [70, 80, 105];
 const ranked = [100, 90, 90, 80];
-console.log(climbingLeaderboard([100, 100, 50, 40, 40, 20, 10], [5, 25, 50, 120]));
+console.log(climbingLeaderboard(ranked, player));
