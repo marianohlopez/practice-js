@@ -1,4 +1,5 @@
 
+
 /* function getWhiteLightLength(n, m, lights) {
     let whiteLightPositions = 0;
  
