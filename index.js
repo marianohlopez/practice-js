@@ -1,5 +1,23 @@
 
 
+/*     const newArr1 = arr1.sort((a, b) => a[1].toLowerCase() > b[1].toLowerCase() ? 1 : -1);
+    const newArr2 = arr2.sort((a, b) => a[1].toLowerCase() > b[1].toLowerCase() ? 1 : -1);
+    newArr1.forEach((element, index) => {
+
+        if (element[1] == newArr2[index][1]) {
+            let newQuantity = element[0] + newArr2[index][0]
+            const newElement = [newQuantity, newArr2[index][1]]
+            newArray.push(newElement)
+        } else {
+            newArray.push(element);
+            newArray.push(newArr2[index]);
+        }
+
+    });
+
+    return newArray; */
+
+
 /* function getWhiteLightLength(n, m, lights) {
     let whiteLightPositions = 0;
  
