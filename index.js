@@ -1,6 +1,3 @@
-
-
-
 /*     const newArr1 = arr1.sort((a, b) => a[1].toLowerCase() > b[1].toLowerCase() ? 1 : -1);
     const newArr2 = arr2.sort((a, b) => a[1].toLowerCase() > b[1].toLowerCase() ? 1 : -1);
     newArr1.forEach((element, index) => {
